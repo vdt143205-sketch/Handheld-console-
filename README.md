@@ -34,14 +34,5 @@ Hệ thống được thiết kế để đáp ứng các yêu cầu chức năn
 | **Phản hồi** | [cite_start]Cung cấp âm thanh đơn giản để tăng tính tương tác[cite: 55]. |
 | **Giao tiếp** | [cite_start]Thiết kế và lắp ráp mạch điện tử, bao gồm kết nối và giao tiếp giữa vi điều khiển và các thiết bị ngoại vi[cite: 46, 59]. |
 
----
 
-## 📂 Hướng Dẫn Cài Đặt và Cấu Trúc (Setup & Structure)
 
-**(Thực hiện Tạo folder lại cho gọn ✅ và Sửa tên repo cho chuẩn ✅)**
-
-Để clone và vận hành dự án, sử dụng lệnh sau:
-
-```bash
-git clone [https://github.com/YourUsername/DNU-Embedded-Handheld-Console.git](https://github.com/YourUsername/DNU-Embedded-Handheld-Console.git)
-cd DNU-Embedded-Handheld-Console
