@@ -31,18 +31,11 @@ Xử lý đầu vào	4 nút điều hướng + 1 nút chức năng để tương
 Hiển thị	Cập nhật trạng thái trò chơi, điểm số và đồ họa cơ bản theo thời gian thực
 Phản hồi	Cung cấp âm thanh đơn giản (buzzer) để tăng tính tương tác
 Giao tiếp	Kết nối và giao tiếp giữa Arduino và các thiết bị ngoại vi (TFT, nút, loa)
-📂 Cấu Trúc Thư Mục (Folder Structure)
-DNU-Embedded-Handheld-Console/
-├── src/           # Code Arduino chính
-│   ├── main.ino
-│   ├── game/
-│   └── display/
-├── images/        # Hình minh họa, GIF demo
-│   └── demo.png
-├── docs/          # Tài liệu, sơ đồ mạch, datasheet
-├── videos/        # Video demo
-└── README.md
-
+Thư mục,Mục đích
+src/,Chứa mã nguồn (source code) lập trình logic trò chơi và điều khiển thiết bị.
+hardware/,"Các tập tin thiết kế mạch điện tử (schematics, PCB layout)."
+doc/,"Báo cáo hoàn chỉnh, tài liệu kỹ thuật và hướng dẫn sử dụng (BAOCAO_HTN.docx)."
+assets/,"Ảnh chụp/Video minh họa sản phẩm, biểu đồ khối (Ảnh minh họa ✅)."
 
 
 🚀 Hướng Dẫn Cài Đặt (Setup Instructions)
